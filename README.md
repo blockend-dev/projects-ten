@@ -8,8 +8,7 @@
 ### 概要:
 このシステムでは、患者が自身の医療記録をICPブロックチェーン上で安全に保存および管理することができます。医療提供者はスマートコントラクトを通じてアクセスをリクエストし、プライバシーとセキュリティを確保します。患者は、誰が記録を閲覧または更新できるかを完全に管理します。
 
-![BE1](https://github.com/user-attachments/assets/83fef2a4-7824-4e51-b47f-92db729a1e34)
-![BE1](https://github.com/user-attachments/assets/83fef2a4-7824-4e51-b47f-92db729a1e34)
+![BE1](https://github.com/user-attachments/assets/fa6bded6-439f-4acd-ae39-904c5d9c6087)
 
 ### 主な考慮事項:
 - データプライバシーのための暗号化およびゼロ知識証明。
@@ -25,7 +24,7 @@ ICPスマートコントラクトを使用して、IoTデバイスを安全に�
 ### 概要:
 このプロジェクトは、IoTデバイスを管理するための分散型ソリューションを提供し、デバイスがICPキャニスターにデータを安全に保存できるようにします。ユーザーはリアルタイムダッシュボードを通じてデバイスを監視し、スマートコントラクトを使用して自動化されたアクションを実行できます。
 
-![BE2](https://github.com/user-attachments/assets/358bf5c9-e5b9-44c8-a163-c8a3528d2974)
+![BE2](https://github.com/user-attachments/assets/5e34f4f8-4943-49a1-8acf-6bd644a52e11)
 
 ### 主な考慮事項:
 - ブロックチェーンを使用したIoTデバイスの安全な認証。
@@ -39,7 +38,7 @@ ICPスマートコントラクトを使用して、IoTデバイスを安全に�
 ### 概要:  
 コンテンツクリエイターは動画をICPキャニスターにアップロードし、分散型ストレージを確保します。視聴者はスマートコントラクトによって管理されるペイパービューやサブスクリプションモデルを通じてコンテンツにアクセスし、クリエイターと直接収益を共有します。
 
-![BE3](https://github.com/user-attachments/assets/78d17c2a-109b-4a3d-8fb1-1d33f2307bf8)
+![BE3](https://github.com/user-attachments/assets/1a06b8f4-b87e-40e5-b1a4-6df714d57932)
 
 ### 主な考慮事項:  
 - ICP上での最適化された動画保存と配信。  
@@ -55,7 +54,7 @@ ICPスマートコントラクトを使用して、IoTデバイスを安全に�
 ### 概要:  
 登録ユーザーが安全に投票を行える分散型電子投票プラットフォームです。投票はICPブロックチェーン上に不変的に保存され、透明性と整合性を確保しながら、有権者の匿名性を維持します。
 
-![BE4](https://github.com/user-attachments/assets/e0d84a87-fbbc-4003-ba04-bad8b7b05b63)
+![BE4](https://github.com/user-attachments/assets/36dd04ca-5389-40f5-a5fd-2d8979a5e2a6)
 
 ### 主な考慮事項:  
 - ブロックチェーンを使用した安全な有権者認証。  
